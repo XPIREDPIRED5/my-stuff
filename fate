@@ -1,0 +1,6 @@
+if game.PlaceId == 142823291 then
+    print("Murder Mystery 2 Detected!, Fates Admin Not Loaded =(")
+    else
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua"))();
+        print("Fates Admin Loaded!")
+end
