@@ -1,0 +1,5 @@
+if game.PlaceId == 7346416636 then
+    print("Pop It Trading Detected!, Fates Admin Not Loaded =(")
+    else
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XPIREDPIRED5/my-stuff/main/fate"))()
+end
